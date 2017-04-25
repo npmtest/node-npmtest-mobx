@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [mobx (v3.1.9)](https://mobxjs.github.io/mobx)  [![npm package](https://img.shields.io/npm/v/npmtest-mobx.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mobx) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mobx.svg)](https://travis-ci.org/npmtest/node-npmtest-mobx)",
+    "description": "#### basic test coverage for  [mobx (v3.1.9)](https://mobxjs.github.io/mobx)  [![npm package](https://img.shields.io/npm/v/npmtest-mobx.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mobx) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mobx.svg)](https://travis-ci.org/npmtest/node-npmtest-mobx)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "mobx": "*",
